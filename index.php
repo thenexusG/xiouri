@@ -12,9 +12,11 @@
 
     <style>
         img {
-            width: 900px;
+             width: auto;
             height: 600px;
             object-fit: cover;
+             display: block;
+            max-height: 100%
         }
         #mapache{
             width: 750px;
